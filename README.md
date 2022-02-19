@@ -32,6 +32,9 @@ sudo pip3 install -r requirements.txt
 
 ### Linux:
 ```
+pip install pycryptodome
+pip install pycryptodomex
+pip3 install pycrypto
 ./makeramdisk.sh -filename boot.img
 ```
 
